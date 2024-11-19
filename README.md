@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**dfrancis-tech/dfrancis-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Data Analysis with python 
+- 🌱 **I’m currently learning:** Fintech  
+- 👯 **I’m looking to collaborate on:** AI/ML projects  
+- 🤔 **I’m looking for help with:** Microsoft Azure 
+- 💬 **Ask me about:** Feel free to ask me anything tech, ideas, or just a fun chat  
+- 📫 **How to reach me:**  [LinkedIn](https://www.linkedin.com/in/francis-tech/)
+- 😄 **Pronouns:** Let’s unify pronouns for a more inclusive world 
+- ⚡ **Fun fact:** I like to walk 10 km a day 🚶‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to explore my repositories or reach out if you'd like to connect. Let's create something amazing together! 🚀
